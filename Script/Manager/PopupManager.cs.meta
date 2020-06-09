@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8d3b26a7f7aadca4589b39078a5e3022
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_okPopupPrefab: {fileID: 1900177170047472, guid: 4725e487650c64942981ea3ea2f8467c,
+      type: 3}
+  - m_okCancelPopupPrefab: {fileID: 1880299341864170, guid: 8a3f43d8bc7888041a6813907ed0a165,
+      type: 3}
+  - m_fadeoutPopupPrefab: {fileID: 1043995839388956, guid: 3352bfa13f3b1564981a3f803b94f9c7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
